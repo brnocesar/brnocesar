@@ -1,20 +1,20 @@
-<div align="center">
-
-# Bruno Cesar
-
-### Data Scientist | Data Engineer | MLOps | Generative AI | People Analytics
-
-</div>
+<p align="center">
+  <img src="./github-header-banner.png" width="100%" alt="Bruno Cesar - Full-Stack Data Scientist" />
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](brnocesar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/brnocesar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](brnocesar)
+<a href="https://www.linkedin.com/in/brnocesar">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
+</a>
+<a href="https://github.com/brnocesar">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" />
+</a>
+<a href="https://www.kaggle.com/brnocesar">
+	<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="25" />
+</a>
 
 </div>
-
----
 
 ### 👨‍💻 Sobre mim
 
@@ -26,14 +26,11 @@ Também possuo experiência anterior como Desenvolvedor Web, o que contribuiu pa
 
 Meu objetivo é desenvolver soluções tecnológicas que combinem dados, engenharia e inteligência artificial para gerar impacto real nos negócios.
 
----
-
 | Área | Competências |
 |---|---|
 | 📊 Data Science | Análise exploratória e estatística · Modelagem preditiva · Machine Learning · People Analytics · Modelos em produção |
 | ⚙️ Data Engineering & AI | Pipelines de dados e ELT · Automação de processos · Agentes de IA · LLMOps e MLOps · Arquitetura de soluções em nuvem |
 
----
 
 ### 🛠️ Tech Stack
 
@@ -45,9 +42,7 @@ Meu objetivo é desenvolver soluções tecnológicas que combinem dados, engenha
 
 ---
 
-### 🚀 Projetos e interesses
-
-Atualmente, meus principais interesses estão relacionados a:
+### 🚀 Interesses
 
 * Soluções de People Analytics orientadas a dados;
 * Automação inteligente de processos corporativos;
