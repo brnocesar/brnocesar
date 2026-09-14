@@ -101,8 +101,24 @@ Atualmente, meus principais interesses estão relacionados a:
 
 ---
 
+## Portfólio
+
+<div align="center">
+
+<a href="[SEU_PORTFOLIO](https://github.com/brnocesar/data-science-portifolio)">
+
+<img src="https://img.shields.io/badge/Visite_meu_portfólio-181717?style=for-the-badge\&logo=googlechrome\&logoColor=white" alt="Visite meu portfólio focado em Ciência de Dados"/>
+
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ### Let's build something meaningful with data.
 
 </div>
+
+---
