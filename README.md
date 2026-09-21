@@ -57,7 +57,8 @@ Meu objetivo é desenvolver soluções tecnológicas que combinem dados, engenha
 
 Conheça meus projetos e trabalhos relacionados à Ciência de Dados, Machine Learning e Inteligência Artificial:
 
-**[Acesse meu portfólio →](https://github.com/brnocesar/data-science-portifolio)**
+**[Acesse meu portfólio de Ciência de Dados →](https://github.com/brnocesar/data-science-portifolio)**
+**[Acesse meu portfólio de Engenharia de Dados →]([https://github.com/brnocesar/data-science-portifolio](https://github.com/brnocesar/data-engineering-portifolio))**
 
 ---
 
