@@ -1,15 +1,5 @@
-<!-- <p align="center">
-  <img src="./github-header-banner.png" width="100%" alt="Bruno Cesar - Full-Stack Data Scientist" />
-</p> -->
-
-<span>
-    <span style="font-size: 48px; font-weight: 700; line-height: 1.1; margin-bottom: 0.25em;">
-        Bruno Cesar<br>
-    </span>
-	<span style="font-size: 20px">
-        AI Engineer | Data Scientist | Data Engineer</span>
-    </span>
-</span>
+# Bruno Cesar
+#### AI Engineer | Data Scientist | Data Engineer
 
 <div align="right" style="margin: 1em 0;">
 <br />
