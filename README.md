@@ -18,6 +18,13 @@
 - Minha experiência abrange todo o ciclo de dados, desde coleta, transformação e análise até a construção, operacionalização e monitoramento de soluções em produção.
 - Também possuo experiência anterior como Desenvolvedor Web. Essa experiência me deu uma base sólida em Engenharia de Software, desenvolvimento de sistemas e construção de soluções completas.
 
+#### 🚀 Interesses
+
+* Soluções de People Analytics orientadas a dados;
+* Agentes de IA e aplicações baseadas em LLMs;
+* Desenvolvimento e operacionalização de modelos de Machine Learning;
+* Engenharia de Dados e arquitetura de pipelines;
+* Integração entre Ciência de Dados, Software Engineering e Cloud Computing.
 
 ### 🛠️ Tech Stack
 
@@ -26,14 +33,6 @@
 | ⚙️ Data Engineering | Pipelines de dados · ETL/ELT · Automação de processos · Arquitetura de soluções em nuvem · Arquitetura Medalhão · Data Quality | SQL · Databricks · BigQuery · SQL Server · PostgreSQL · PySpark · Polars · GCP · Cloud Run · Cloud Functions · Cloud Storage · Apache Airflow |
 | 📊 Data Science | Análise exploratória e estatística · Modelagem preditiva · Machine Learning · Feature Engineering · Tuning de parâmetros · Clusterização · People Analytics · Modelos em produção · MLOps | Python · Pandas · NumPy · Scikit-learn · Statsmodels · Optuna · MLflow · Vertex AI |
 | 🤖 AI Engineering | Agentes de IA · LLMOps · System Design | CrewAI · LangChain · LangGraph · Docker |
-
-### 🚀 Interesses
-
-* Soluções de People Analytics orientadas a dados;
-* Agentes de IA e aplicações baseadas em LLMs;
-* Desenvolvimento e operacionalização de modelos de Machine Learning;
-* Engenharia de Dados e arquitetura de pipelines;
-* Integração entre Ciência de Dados, Software Engineering e Cloud Computing.
 
 ### 🌐 Portfólio
 
