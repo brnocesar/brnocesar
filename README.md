@@ -11,9 +11,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- Sou Cientista de Dados com foco em People Analytics, Engenharia de Dados, Machine Learning clássico e IA generativa. Atuo do entendimento do problema à implementação, de ponta a ponta.
-- Minha experiência abrange todo o ciclo de dados, desde coleta, transformação e análise até a construção, operacionalização e monitoramento de soluções em produção.
-- Também possuo experiência anterior como Desenvolvedor Web. Essa experiência me deu uma base sólida em Engenharia de Software, desenvolvimento de sistemas e construção de soluções completas.
+- Sou Cientista de Dados com foco em People Analytics, Engenharia de Dados, Machine Learning clássico e IA generativa. Minha atuação vai do entendimento do problema à implementação, de ponta a ponta.
+- Tenho experiência em todo o ciclo de dados, desde coleta, transformação e análise até a construção, operacionalização e monitoramento de soluções em produção.
+- Também possuo experiência anterior como Desenvolvedor Web, experiência me deu uma base sólida em Engenharia de Software, desenvolvimento de sistemas e construção de soluções completas.
 
 #### 🚀 Interesses
 
@@ -21,7 +21,7 @@
 * Agentes de IA e aplicações baseadas em LLMs;
 * Desenvolvimento e operacionalização de modelos de Machine Learning;
 * Engenharia de Dados e arquitetura de pipelines;
-* Integração entre Ciência de Dados, Software Engineering e Cloud Computing.
+* Integração entre Ciência de Dados, Engenharia de Software e Cloud Computing.
 
 ### 🛠️ Tech Stack
 
