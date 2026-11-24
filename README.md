@@ -9,33 +9,33 @@
 <br />
 </div>
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-- Sou Cientista de Dados com foco em People Analytics, Engenharia de Dados, Machine Learning clássico e IA generativa. Minha atuação vai do entendimento do problema à implementação, de ponta a ponta.
-- Tenho experiência em todo o ciclo de dados, desde coleta, transformação e análise até a construção, operacionalização e monitoramento de soluções em produção.
-- Também possuo experiência anterior como Desenvolvedor Web, experiência me deu uma base sólida em Engenharia de Software, desenvolvimento de sistemas e construção de soluções completas.
+- I'm a Data Scientist focused on People Analytics, Data Engineering, classical Machine Learning and generative AI. My work goes from understanding the problem to implementing the solution, end to end.
+- I have experience across the entire data lifecycle, from collection, transformation and analysis to building, operationalizing and monitoring solutions in production.
+- I also have previous experience as a Web Developer, which gave me a solid foundation in Software Engineering, systems development and building complete solutions.
 
-#### 🚀 Interesses
+#### 🚀 Interests
 
-* Soluções de People Analytics orientadas a dados;
-* Agentes de IA e aplicações baseadas em LLMs;
-* Desenvolvimento e operacionalização de modelos de Machine Learning;
-* Engenharia de Dados e arquitetura de pipelines;
-* Integração entre Ciência de Dados, Engenharia de Software e Cloud Computing.
+* Data-driven People Analytics solutions;
+* AI agents and LLM-based applications;
+* Development and operationalization of Machine Learning models;
+* Data Engineering and pipeline architecture;
+* Integration between Data Science, Software Engineering and Cloud Computing.
 
 ### 🛠️ Tech Stack
 
-| Área | Competências | Tecnologias |
+| Area | Skills | Technologies |
 |---|---|---|
-| ⚙️ Data Engineering | Pipelines de dados · ETL/ELT · Automação de processos · Arquitetura de soluções em nuvem · Arquitetura Medalhão · Data Quality | SQL · Databricks · BigQuery · SQL Server · PostgreSQL · PySpark · Polars · GCP · Cloud Run · Cloud Functions · Cloud Storage · Apache Airflow |
-| 📊 Data Science | Análise exploratória e estatística · Modelagem preditiva · Machine Learning · Feature Engineering · Tuning de parâmetros · Clusterização · People Analytics · Modelos em produção · MLOps | Python · Pandas · NumPy · Scikit-learn · Statsmodels · Optuna · MLflow · Vertex AI |
-| 🤖 AI Engineering | Agentes de IA · LLMOps · System Design | CrewAI · LangChain · LangGraph · Docker |
+| 🤖 AI Engineering | AI Agents · LLMOps · System Design | CrewAI · LangChain · LangGraph · Docker |
+| 📊 Data Science | Exploratory analysis and statistics · Predictive modeling · Machine Learning · Feature Engineering · Hyperparameter tuning · Clustering · People Analytics · Production models · MLOps | Python · Pandas · NumPy · Scikit-learn · Statsmodels · Optuna · MLflow · Vertex AI |
+| ⚙️ Data Engineering | Data pipelines · ETL/ELT · Process automation · Cloud solutions architecture · Medallion Architecture · Data Quality | SQL · Databricks · BigQuery · SQL Server · PostgreSQL · PySpark · Polars · GCP · Cloud Run · Cloud Functions · Cloud Storage · Apache Airflow |
 
-### 🌐 Portfólio
+### 🌐 Portfolio
 
-Conheça meus projetos:
+Check out my projects:
 
-- **[Engenharia de IA →](https://github.com/brnocesar/ai-engineering-portifolio)**
-- **[Ciência de Dados →](https://github.com/brnocesar/data-science-portifolio)**
-- **[Engenharia de Dados →](https://github.com/brnocesar/data-engineering-portifolio)**
-- **[Desenvolvimento Web →](https://github.com/brnocesar/web-development-portifolio)**
+- **[AI Engineering →](https://github.com/brnocesar/ai-engineering-portifolio)**
+- **[Data Science →](https://github.com/brnocesar/data-science-portifolio)**
+- **[Data Engineering →](https://github.com/brnocesar/data-engineering-portifolio)**
+- **[Web Development →](https://github.com/brnocesar/web-development-portifolio)**
